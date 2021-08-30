@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=CFD6C9&height=250&text=YuWon%20Ahn&animation=twinkling&fontColor=353336&desc=Front-end%20web%20developer&descAlignY=60&fontAlignY=40" />
 </div>
 
-<br />
 
 <div align="center">
   <h3>Hi there 👋</h3>
@@ -11,7 +10,7 @@
   
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yu-Won&show_icons=true&title_color=B0BA8D&text_color=6C585B&icon_color=D0D3AA&border_color=F1E9D8" />
